@@ -4,7 +4,7 @@
   "description": "A realtime GPS tracking using redis, nodejs and websockets",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.10.2",
+    "express": "^4.17.3",
     "redis": "^2.6.3",
     "socket.io": "^1.7.1"
   },
